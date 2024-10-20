@@ -1,4 +1,4 @@
-## 🖥️ **La Corona Network - User_Create_lib**
+## 👥 **La Corona Network - User_Create_lib**
 
 ## **Descripción del Proyecto**
 
